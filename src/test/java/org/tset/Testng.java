@@ -27,5 +27,8 @@ public class Testng {
 		System.out.println(10);
 	}
 
-
+	@Test
+	private void tc6() {
+		System.out.println(10);
+}
 }
